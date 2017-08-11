@@ -4,3 +4,4 @@ Projekt, który współtworzyłem polegał na wykonaniu szeregu panoramicznnych 
 
 Do połącznia około 100 panoram wykorzystaliśmy plugin DevalVR.
 
+![](https://github.com/kamildyjak/Wirtualny-spacer/blob/master/start.png)
