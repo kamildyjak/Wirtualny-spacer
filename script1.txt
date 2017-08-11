@@ -2,7 +2,7 @@
 (wjazd)
 {
     type=mov;
-    file=przed_szkola_1.mov;
+    file=media/przed_szkola_1.mov;
     
 	BUTTON3D= hot,hot1,0 ,61,-85,176, 20,0, 0,0, #00, hot, hot1, hot, 60,100,60, no,no,no, 2 , nokey , release, "Przed budynkiem szkoły","Fade("","",100,0.2,"hot");GoToFrame("przed_szkola1")";
 	BUTTON3D= hot,hot1,0 ,187,-55,3, 20,0, 0,0, #00, hot, hot1, hot, 60,100,60, no,no,no, 2 , nokey , release, "Idź w to miejsce","Fade("","",100,0.2,"hot");GoToFrame("przed_budynek")";
@@ -23,7 +23,7 @@
 (wjazd1)
 {
     type=mov;
-    file=przed_szkola_1.mov;
+    file=media/przed_szkola_1.mov;
     
 	BUTTON3D= hot,hot1,0 ,61,-85,176, 20,0, 0,0, #00, hot, hot1, hot, 60,100,60, no,no,no, 2 , nokey , release, "Przed budynkiem szkoły","Fade("","",100,0.2,"hot");GoToFrame("przed_szkola1")";
 	BUTTON3D= hot,hot1,0 ,187,-55,3, 20,0, 0,0, #00, hot, hot1, hot, 60,100,60, no,no,no, 2 , nokey , release, "Idź w to miejsce","Fade("","",100,0.2,"hot");GoToFrame("przed_budynek")";
@@ -42,7 +42,7 @@
 (wejscie1)
 {
    type=mov;
-   file=wejsciec.mov;
+   file=media/wejsciec.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -63,7 +63,7 @@
 (wejscie1_1)
 {
    type=mov;
-   file=wejsciec1.mov;
+   file=media/wejsciec1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -83,7 +83,7 @@
 (wejscie1_2)
 {
    type=mov;
-   file=wejsciec2.mov;
+   file=media/wejsciec2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -103,7 +103,7 @@
 (przed_budynek)
 {
 type=mov;
-file=przed_budynek.mov;
+file=media/przed_budynek.mov;
 
 include=mapy;
    include=lokalizacja;
@@ -120,7 +120,7 @@ include=mapy;
 (przed_szkola1)
 {
    type=mov;
-   file=przed_szkola1a.mov;
+   file=media/przed_szkola1a.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -139,7 +139,7 @@ include=mapy;
 (przed_szkola1_1)
 {
    type=mov;
-   file=przed_szkola1a_1.mov;
+   file=media/przed_szkola1a_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -158,7 +158,7 @@ include=mapy;
 (przed_szkola2)
 {
    type=mov;
-   file=przed_szkola2.mov;
+   file=media/przed_szkola2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -177,7 +177,7 @@ include=mapy;
 (przed_szkola2_1)
 {
    type=mov;
-   file=przed_szkola2_1.mov;
+   file=media/przed_szkola2_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -196,7 +196,7 @@ include=mapy;
 (przed15)
 {
    type=mov;
-   file=przed15.mov;
+   file=media/przed15.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -216,7 +216,7 @@ include=mapy;
 (przed15_1)
 {
    type=mov;
-   file=przed15_1.mov;
+   file=media/przed15_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -237,7 +237,7 @@ include=mapy;
 (przed16)
 {
    type=mov;
-   file=przed16.mov;
+   file=media/przed16.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -258,7 +258,7 @@ include=mapy;
 (przed16_1)
 {
    type=mov;
-   file=przed16_1.mov;
+   file=media/przed16_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -278,7 +278,7 @@ include=mapy;
 (przed17)
 {
    type=mov;
-   file=przed17.mov;
+   file=media/przed17.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -298,7 +298,7 @@ include=mapy;
 (przed17_1)
 {
    type=mov;
-   file=przed17_1.mov;
+   file=media/przed17_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -318,7 +318,7 @@ include=mapy;
 (przed_wf)
 {
    type=mov;
-   file=przed_wf.mov;
+   file=media/przed_wf.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -338,7 +338,7 @@ include=mapy;
 (przed_wf1)
 {
    type=mov;
-   file=przed_wf1.mov;
+   file=media/przed_wf1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -358,7 +358,7 @@ include=mapy;
 (przed_gim_duza)
 {
 type=mov;
-file=przed_gim_duza1.mov;
+file=media/przed_gim_duza1.mov;
 
 include=mapy;
    include=lokalizacja;
@@ -376,7 +376,7 @@ include=mapy;
 (przed_gim_duza1)
 {
 type=mov;
-file=przed_gim_duza1a.mov;
+file=media/przed_gim_duza1a.mov;
 
 include=mapy;
    include=lokalizacja;
@@ -394,7 +394,7 @@ include=mapy;
 (Sala_duza)
 {
 type=mov;
-file=Sala_duza.mov;
+file=media/Sala_duza.mov;
 
 include=mapy;
    include=lokalizacja;
@@ -412,7 +412,7 @@ include=mapy;
 (Sala_mala)
 {
 type=mov;
-file=Sala_mala.mov;
+file=media/Sala_mala.mov;
 
 include=mapy;
    include=lokalizacja;
@@ -430,7 +430,7 @@ include=mapy;
 (przed_szat)
 {
    type=mov;
-   file=przed_szat.mov;
+   file=media/przed_szat.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -452,7 +452,7 @@ include=mapy;
 (przed_szat1)
 {
    type=mov;
-   file=przed_szat1.mov;
+   file=media/przed_szat1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -473,7 +473,7 @@ include=mapy;
 (przed_szat2)
 {
    type=mov;
-   file=przed_szat2.mov;
+   file=media/przed_szat2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -494,7 +494,7 @@ include=mapy;
 (szat_gim2)
 {
 type=mov;
-file=szat_gim2.mov;
+file=media/szat_gim2.mov;
 
  include=mapy;
    include=lokalizacja;
@@ -511,7 +511,7 @@ file=szat_gim2.mov;
 (przed_gimn2)
 {
    type=mov;
-   file=przed_gimn2.mov;
+   file=media/przed_gimn2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -532,7 +532,7 @@ file=szat_gim2.mov;
 (przed_gimn2_1)
 {
    type=mov;
-   file=przed_gimn2_1.mov;
+   file=media/przed_gimn2_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -552,7 +552,7 @@ file=szat_gim2.mov;
 (wyjscie2)
 {
    type=mov;
-   file=wyjscie2.mov;
+   file=media/wyjscie2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -573,7 +573,7 @@ file=szat_gim2.mov;
 (wyjscie2_1)
 {
    type=mov;
-   file=wyjscie2_1.mov;
+   file=media/wyjscie2_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -594,7 +594,7 @@ file=szat_gim2.mov;
 (wyjscie2_2)
 {
    type=mov;
-   file=wyjscie2_2.mov;
+   file=media/wyjscie2_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -614,7 +614,7 @@ file=szat_gim2.mov;
 (przed_bibl)
 {
    type=mov;
-   file=przed_bibl.mov;
+   file=media/przed_bibl.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -634,7 +634,7 @@ file=szat_gim2.mov;
 (schody1)
 {
    type=mov;
-   file=schody1.mov;
+   file=media/schody1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -652,7 +652,7 @@ file=szat_gim2.mov;
 (polpietro4)
 {
    type=MOV;
-   file=polpietro4.mov;
+   file=media/polpietro4.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -674,7 +674,7 @@ file=szat_gim2.mov;
 (polpietro4_1)
 {
    type=MOV;
-   file=polpietro4_1.mov;
+   file=media/polpietro4_1.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -695,7 +695,7 @@ file=szat_gim2.mov;
 (polpietro)
 {
    type=MOV;
-   file=polpietro.mov;
+   file=media/polpietro.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -716,7 +716,7 @@ file=szat_gim2.mov;
 (polpietro_1)
 {
    type=MOV;
-   file=polpietro_1.mov;
+   file=media/polpietro_1.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -737,7 +737,7 @@ file=szat_gim2.mov;
 (polpietro0)
 {
    type=MOV;
-   file=polpietro0.mov;
+   file=media/polpietro0.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -763,7 +763,7 @@ file=szat_gim2.mov;
 (polpietro0_1)
 {
    type=MOV;
-   file=polpietro0_1.mov;
+   file=media/polpietro0_1.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -787,7 +787,7 @@ file=szat_gim2.mov;
 (1pietslowak)
 {
     type=mov;
-    file=slowak_pietpierwb.mov;
+    file=media/slowak_pietpierwb.mov;
 
     include=mapy;
 	include=lokalizacja;
@@ -812,7 +812,7 @@ file=szat_gim2.mov;
 (1pietslowak1)
 {
     type=mov;
-    file=slowak_pietpierwb1.mov;
+    file=media/slowak_pietpierwb1.mov;
 
     include=mapy;
 	include=lokalizacja;
@@ -837,7 +837,7 @@ file=szat_gim2.mov;
 (przed28)
 {
    type=mov;
-   file=przed28.mov;
+   file=media/przed28.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -859,7 +859,7 @@ file=szat_gim2.mov;
 (przed28_1)
 {
    type=mov;
-   file=przed28_1.mov;
+   file=media/przed28_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -880,7 +880,7 @@ file=szat_gim2.mov;
 (przed28_2)
 {
    type=mov;
-   file=przed28_2.mov;
+   file=media/przed28_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -901,7 +901,7 @@ file=szat_gim2.mov;
 (przed28_3)
 {
    type=mov;
-   file=przed28_3.mov;
+   file=media/przed28_3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -922,7 +922,7 @@ file=szat_gim2.mov;
 (przed_info)
 {
    type=mov;
-   file=przed_info.mov;
+   file=media/przed_info.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -941,7 +941,7 @@ file=szat_gim2.mov;
 (przed_info1)
 {
    type=mov;
-   file=przed_info1.mov;
+   file=media/przed_info1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -959,7 +959,7 @@ file=szat_gim2.mov;
 (przed_archiwum)
 {
    type=mov;
-   file=przed_archiwum.mov;
+   file=media/przed_archiwum.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -980,7 +980,7 @@ file=szat_gim2.mov;
 (przed_archiwum1)
 {
    type=mov;
-   file=przed_archiwum1.mov;
+   file=media/przed_archiwum1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1001,7 +1001,7 @@ file=szat_gim2.mov;
 (przed_archiwum2)
 {
    type=mov;
-   file=przed_archiwum2.mov;
+   file=media/przed_archiwum2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1022,7 +1022,7 @@ file=szat_gim2.mov;
 (przed_sekretariatem)
 {
    type=mov;
-   file=przed_sekretariatem.mov;
+   file=media/przed_sekretariatem.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1041,7 +1041,7 @@ file=szat_gim2.mov;
 (przed_pokojem1)
 {
    type=mov;
-   file=przed_pokojem1.mov;
+   file=media/przed_pokojem1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1061,7 +1061,7 @@ file=szat_gim2.mov;
 (multimedialnąa)
 {
    type=mov;
-   file=multimedialnąa.mov;
+   file=media/multimedialnąa.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1079,7 +1079,7 @@ file=szat_gim2.mov;
 (przed31)
 {
    type=mov;
-   file=przed31e.mov;
+   file=media/przed31e.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1105,7 +1105,7 @@ file=szat_gim2.mov;
 (przed31_1)
 {
    type=mov;
-   file=przed31e1.mov;
+   file=media/przed31e1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1131,7 +1131,7 @@ file=szat_gim2.mov;
 (przed31_2)
 {
    type=mov;
-   file=przed31e2.mov;
+   file=media/przed31e2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1157,7 +1157,7 @@ file=szat_gim2.mov;
 (przed31_3)
 {
    type=mov;
-   file=przed31e3.mov;
+   file=media/przed31e3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1183,7 +1183,7 @@ file=szat_gim2.mov;
 (klasa31)
 {
    type=mov;
-   file=klasa31.mov;
+   file=media/klasa31.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1201,7 +1201,7 @@ file=szat_gim2.mov;
 (przed32)
 {
    type=mov;
-   file=przed32d.mov;
+   file=media/przed32d.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1225,7 +1225,7 @@ file=szat_gim2.mov;
 (przed32_1)
 {
    type=mov;
-   file=przed32d1.mov;
+   file=media/przed32d1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1249,7 +1249,7 @@ file=szat_gim2.mov;
 (przed32_2)
 {
    type=mov;
-   file=przed32d2.mov;
+   file=media/przed32d2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1273,7 +1273,7 @@ file=szat_gim2.mov;
 (klasa32)
 {
    type=mov;
-   file=klasa32.mov;
+   file=media/klasa32.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1291,7 +1291,7 @@ file=szat_gim2.mov;
 (przed33)
 {
    type=mov;
-   file=przed33c.mov;
+   file=media/przed33c.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1315,7 +1315,7 @@ file=szat_gim2.mov;
 (przed33_1)
 {
    type=mov;
-   file=przed33c1.mov;
+   file=media/przed33c1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1339,7 +1339,7 @@ file=szat_gim2.mov;
 (przed33_2)
 {
    type=mov;
-   file=przed33c2.mov;
+   file=media/przed33c2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1363,7 +1363,7 @@ file=szat_gim2.mov;
 (przed_aula)
 {
    type=mov;
-   file=przed_aula.mov;
+   file=media/przed_aula.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1388,7 +1388,7 @@ file=szat_gim2.mov;
 (przed_aula1)
 {
    type=mov;
-   file=przed_aula1.mov;
+   file=media/przed_aula1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1413,7 +1413,7 @@ file=szat_gim2.mov;
 (przed_aula2)
 {
    type=mov;
-   file=przed_aula2.mov;
+   file=media/przed_aula2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1437,7 +1437,7 @@ file=szat_gim2.mov;
 (aula1)
 {
    type=mov;
-   file=aula1.mov;
+   file=media/aula1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1456,7 +1456,7 @@ file=szat_gim2.mov;
 (aula1a)
 {
    type=mov;
-   file=aula1a.mov;
+   file=media/aula1a.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1475,7 +1475,7 @@ file=szat_gim2.mov;
 (aula2)
 {
    type=mov;
-   file=aula2.mov;
+   file=media/aula2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1493,7 +1493,7 @@ file=szat_gim2.mov;
 }(aula2a)
 {
    type=mov;
-   file=aula2a.mov;
+   file=media/aula2a.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1512,7 +1512,7 @@ file=szat_gim2.mov;
 (aula3)
 {
    type=mov;
-   file=aula3.mov;
+   file=media/aula3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1531,7 +1531,7 @@ file=szat_gim2.mov;
 (klasa33)
 {
    type=mov;
-   file=klasa33.mov;
+   file=media/klasa33.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1549,7 +1549,7 @@ file=szat_gim2.mov;
 (przed35)
 {
    type=mov;
-   file=przed_35.mov;
+   file=media/przed_35.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1568,7 +1568,7 @@ file=szat_gim2.mov;
 (przed35_1)
 {
    type=mov;
-   file=przed_35_1.mov;
+   file=media/przed_35_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1587,7 +1587,7 @@ file=szat_gim2.mov;
 (przed35_2)
 {
    type=mov;
-   file=przed_35_2.mov;
+   file=media/przed_35_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1608,7 +1608,7 @@ file=szat_gim2.mov;
 (klasa35)
 {
    type=mov;
-   file=klasa35.mov;
+   file=media/klasa35.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1625,7 +1625,7 @@ file=szat_gim2.mov;
 (przed36)
 {
    type=mov;
-   file=przed_36.mov;
+   file=media/przed_36.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1646,7 +1646,7 @@ file=szat_gim2.mov;
 (przed36_1)
 {
    type=mov;
-   file=przed_36_1.mov;
+   file=media/przed_36_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1665,7 +1665,7 @@ file=szat_gim2.mov;
 (przed36_2)
 {
    type=mov;
-   file=przed_36_2.mov;
+   file=media/przed_36_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1684,7 +1684,7 @@ file=szat_gim2.mov;
 (klasa36)
 {
    type=mov;
-   file=klasa36a.mov;
+   file=media/klasa36a.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1702,7 +1702,7 @@ file=szat_gim2.mov;
    (przed37)
 {
    type=mov;
-   file=przed_37.mov;
+   file=media/przed_37.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1722,7 +1722,7 @@ file=szat_gim2.mov;
 (przed37_1)
 {
    type=mov;
-   file=przed_37_1.mov;
+   file=media/przed_37_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1742,7 +1742,7 @@ file=szat_gim2.mov;
 (przed37_2)
 {
    type=mov;
-   file=przed_37_2.mov;
+   file=media/przed_37_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1762,7 +1762,7 @@ file=szat_gim2.mov;
 (przed37_3)
 {
    type=mov;
-   file=przed_37_3.mov;
+   file=media/przed_37_3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1782,7 +1782,7 @@ file=szat_gim2.mov;
 	(klasa37)
 {
    type=mov;
-   file=klasa37.mov;
+   file=media/klasa37.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1800,7 +1800,7 @@ file=szat_gim2.mov;
 (przed38)
 {
    type=mov;
-   file=przed38.mov;
+   file=media/przed38.mov;
  
    include=mapy;
    include=lokalizacja;
@@ -1819,7 +1819,7 @@ file=szat_gim2.mov;
 (przed38_1)
 {
    type=mov;
-   file=przed38_1.mov;
+   file=media/przed38_1.mov;
  
    include=mapy;
    include=lokalizacja;
@@ -1838,7 +1838,7 @@ file=szat_gim2.mov;
 (klasa38)
 {
    type=mov;
-   file=klasa38.mov;
+   file=media/klasa38.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1857,7 +1857,7 @@ file=szat_gim2.mov;
 (przed_sklepik)
 {
    type=mov;
-   file=przed_sklepik.mov;
+   file=media/przed_sklepik.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1877,7 +1877,7 @@ file=szat_gim2.mov;
 (przed_sklepik1)
 {
    type=mov;
-   file=przed_sklepik1.mov;
+   file=media/przed_sklepik1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1897,7 +1897,7 @@ file=szat_gim2.mov;
 (przed_sklepik2)
 {
    type=mov;
-   file=przed_sklepik2.mov;
+   file=media/przed_sklepik2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1917,7 +1917,7 @@ file=szat_gim2.mov;
 (przed_pokojem2)
 {
    type=mov;
-   file=przed_pokojem2.mov;
+   file=media/przed_pokojem2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1937,7 +1937,7 @@ file=szat_gim2.mov;
 (przed_pokojem2_1)
 {
    type=mov;
-   file=przed_pokojem2_1.mov;
+   file=media/przed_pokojem2_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1957,7 +1957,7 @@ file=szat_gim2.mov;
 (przed_pokojem2_2)
 {
    type=mov;
-   file=przed_pokojem2_2.mov;
+   file=media/przed_pokojem2_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1977,7 +1977,7 @@ file=szat_gim2.mov;
 (przed_wice)
 {
    type=mov;
-   file=przed_wice.mov;
+   file=media/przed_wice.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -1996,7 +1996,7 @@ file=szat_gim2.mov;
 (przed_wice1)
 {
    type=mov;
-   file=przed_wice1.mov;
+   file=media/przed_wice1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2014,7 +2014,7 @@ file=szat_gim2.mov;
 (przed_wice2)
 {
    type=mov;
-   file=przed_wice2.mov;
+   file=media/przed_wice2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2033,7 +2033,7 @@ file=szat_gim2.mov;
 (przed39)
 {
    type=mov;
-   file=przed39.mov;
+   file=media/przed39.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2053,7 +2053,7 @@ file=szat_gim2.mov;
 (przed39_1)
 {
    type=mov;
-   file=przed39_1.mov;
+   file=media/przed39_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2073,7 +2073,7 @@ file=szat_gim2.mov;
 (przed39_2)
 {
    type=mov;
-   file=przed39_2.mov;
+   file=media/przed39_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2093,7 +2093,7 @@ file=szat_gim2.mov;
 (klasa39)
 {
    type=mov;
-   file=klasa39.mov;
+   file=media/klasa39.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2111,7 +2111,7 @@ file=szat_gim2.mov;
 (klasa40)
 {
    type=mov;
-   file=klasa40.mov;
+   file=media/klasa40.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2130,7 +2130,7 @@ file=szat_gim2.mov;
 (2pietslowak)
 {
    type=mov;
-   file=slowak_pietdruga.mov;
+   file=media/slowak_pietdruga.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2151,7 +2151,7 @@ file=szat_gim2.mov;
 (2pietslowak1)
 {
    type=mov;
-   file=slowak_pietdruga1.mov;
+   file=media/slowak_pietdruga1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2172,7 +2172,7 @@ file=szat_gim2.mov;
 (male_polpietro0)
 {
    type=mov;
-   file=male_polpietro0b.mov;
+   file=media/male_polpietro0b.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -2189,7 +2189,7 @@ file=szat_gim2.mov;
 (male_polpietro2)
 {
    type=mov;
-   file=polpietro2.mov;
+   file=media/polpietro2.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -2204,7 +2204,7 @@ file=szat_gim2.mov;
 (male_polpietro)
 {
    type=mov;
-   file=male_polpietro1b.mov;
+   file=media/male_polpietro1b.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -2222,7 +2222,7 @@ file=szat_gim2.mov;
 (male_polpietro3)
 {
    type=mov;
-   file=male_polpietro3a.mov;
+   file=media/male_polpietro3a.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -2240,7 +2240,7 @@ file=szat_gim2.mov;
 (przed51)
 {
    type=mov;
-   file=przed51a.mov;
+   file=media/przed51a.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2261,7 +2261,7 @@ file=szat_gim2.mov;
 (przed51_1)
 {
    type=mov;
-   file=przed51a1.mov;
+   file=media/przed51a1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2281,7 +2281,7 @@ file=szat_gim2.mov;
 (przed51_2)
 {
    type=mov;
-   file=przed51a2.mov;
+   file=media/przed51a2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2301,7 +2301,7 @@ file=szat_gim2.mov;
 (przed51_3)
 {
    type=mov;
-   file=przed51a3.mov;
+   file=media/przed51a3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2322,7 +2322,7 @@ file=szat_gim2.mov;
 (klasa51)
 {
    type=mov;
-   file=klasa51.mov;
+   file=media/klasa51.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2340,7 +2340,7 @@ file=szat_gim2.mov;
 (przed52)
 {
    type=mov;
-   file=przed52.mov;
+   file=media/przed52.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2360,7 +2360,7 @@ file=szat_gim2.mov;
 (przed52_1)
 {
    type=mov;
-   file=przed52_1.mov;
+   file=media/przed52_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2380,7 +2380,7 @@ file=szat_gim2.mov;
 (przed52_2)
 {
    type=mov;
-   file=przed52_2.mov;
+   file=media/przed52_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2400,7 +2400,7 @@ file=szat_gim2.mov;
 (klasa52)
 {
    type=mov;
-   file=klasa52.mov;
+   file=media/klasa52.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2418,7 +2418,7 @@ file=szat_gim2.mov;
 (przed53)
 {
    type=mov;
-   file=przed53.mov;
+   file=media/przed53.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2438,7 +2438,7 @@ file=szat_gim2.mov;
 (przed53_1)
 {
    type=mov;
-   file=przed53_1.mov;
+   file=media/przed53_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2458,7 +2458,7 @@ file=szat_gim2.mov;
 (przed53_2)
 {
    type=mov;
-   file=przed53_2.mov;
+   file=media/przed53_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2478,7 +2478,7 @@ file=szat_gim2.mov;
 (klasa53)
 {
    type=mov;
-   file=klasa53.mov;
+   file=media/klasa53.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2496,7 +2496,7 @@ file=szat_gim2.mov;
 (przed_balkon)
 {
    type=mov;
-   file=przed_balkona.mov;
+   file=media/przed_balkona.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2516,7 +2516,7 @@ file=szat_gim2.mov;
 (przed_balkon1)
 {
    type=mov;
-   file=przed_balkona1.mov;
+   file=media/przed_balkona1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2536,7 +2536,7 @@ file=szat_gim2.mov;
 (przed_balkon2)
 {
    type=mov;
-   file=przed_balkona2.mov;
+   file=media/przed_balkona2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2556,7 +2556,7 @@ file=szat_gim2.mov;
 (przed55)
 {
    type=mov;
-   file=przed55.mov;
+   file=media/przed55.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2576,7 +2576,7 @@ file=szat_gim2.mov;
 (przed55_1)
 {
    type=mov;
-   file=przed55_1.mov;
+   file=media/przed55_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2596,7 +2596,7 @@ file=szat_gim2.mov;
 (przed55_2)
 {
    type=mov;
-   file=przed55_2.mov;
+   file=media/przed55_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2616,7 +2616,7 @@ file=szat_gim2.mov;
 (klasa55)
 {
    type=mov;
-   file=klasa55.mov;
+   file=media/klasa55.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2634,7 +2634,7 @@ file=szat_gim2.mov;
 (przed56)
 {
    type=mov;
-   file=przed56.mov;
+   file=media/przed56.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2654,7 +2654,7 @@ file=szat_gim2.mov;
 (przed56_1)
 {
    type=mov;
-   file=przed56_1.mov;
+   file=media/przed56_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2674,7 +2674,7 @@ file=szat_gim2.mov;
 (przed56_2)
 {
    type=mov;
-   file=przed56_2.mov;
+   file=media/przed56_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2694,7 +2694,7 @@ file=szat_gim2.mov;
 (klasa56)
 {
    type=mov;
-   file=klasa56.mov;
+   file=media/klasa56.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2712,7 +2712,7 @@ file=szat_gim2.mov;
 (przed57)
 {
    type=mov;
-   file=przed57.mov;
+   file=media/przed57.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2733,7 +2733,7 @@ file=szat_gim2.mov;
 (przed57_1)
 {
    type=mov;
-   file=przed57_1.mov;
+   file=media/przed57_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2754,7 +2754,7 @@ file=szat_gim2.mov;
 (przed57_2)
 {
    type=mov;
-   file=przed57_2.mov;
+   file=media/przed57_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2775,7 +2775,7 @@ file=szat_gim2.mov;
 (przed57_3)
 {
    type=mov;
-   file=przed57_3.mov;
+   file=media/przed57_3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2796,7 +2796,7 @@ file=szat_gim2.mov;
 (klasa57)
 {
    type=mov;
-   file=klasa57.mov;
+   file=media/klasa57.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2814,7 +2814,7 @@ file=szat_gim2.mov;
 (przed58)
 {
    type=mov;
-   file=przed58.mov;
+   file=media/przed58.mov;
  
    include=mapy;
    include=lokalizacja;
@@ -2835,7 +2835,7 @@ file=szat_gim2.mov;
 (przed58_1)
 {
    type=mov;
-   file=przed58_1.mov;
+   file=media/przed58_1.mov;
  
    include=mapy;
    include=lokalizacja;
@@ -2856,7 +2856,7 @@ file=szat_gim2.mov;
 (klasa58)
 {
    type=mov;
-   file=klasa58.mov;
+   file=media/klasa58.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -2873,7 +2873,7 @@ file=szat_gim2.mov;
 (schody2)
 {
    type=mov;
-   file=schody2.mov;
+   file=media/schody2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2894,7 +2894,7 @@ file=szat_gim2.mov;
 (schody2_1)
 {
    type=mov;
-   file=schody2_1.mov;
+   file=media/schody2_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2915,7 +2915,7 @@ file=szat_gim2.mov;
 (2piet_przedschod)
 {
    type=mov;
-   file=2piet_przedschod.mov;
+   file=media/2piet_przedschod.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2936,7 +2936,7 @@ file=szat_gim2.mov;
 (2piet_przedschod_1)
 {
    type=mov;
-   file=2piet_przedschod_1.mov;
+   file=media/2piet_przedschod_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -2957,7 +2957,7 @@ file=szat_gim2.mov;
 (polpietro3)
 {
    type=MOV;
-   file=polpietro3.mov;
+   file=media/polpietro3.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -2978,7 +2978,7 @@ file=szat_gim2.mov;
 (polpietro3_1)
 {
    type=MOV;
-   file=polpietro3_1.mov;
+   file=media/polpietro3_1.mov;
 	
    include=mapy;
    include=lokalizacja;
@@ -2999,7 +2999,7 @@ file=szat_gim2.mov;
 (schody3_1)
 {
    type=mov;
-   file=schody3_1.mov;
+   file=media/schody3_1.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -3017,7 +3017,7 @@ file=szat_gim2.mov;
 (schody3_2)
 {
    type=mov;
-   file=schody3_2.mov;
+   file=media/schody3_2.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -3035,7 +3035,7 @@ file=szat_gim2.mov;
 (przed_biol)
 {
    type=mov;
-   file=przed_biol.mov;
+   file=media/przed_biol.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3053,7 +3053,7 @@ file=szat_gim2.mov;
 (przed_niemiecki)
 {
    type=mov;
-   file=przed_niemiecki.mov;
+   file=media/przed_niemiecki.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3072,7 +3072,7 @@ file=szat_gim2.mov;
 (przed_niemiecki1)
 {
    type=mov;
-   file=przed_niemiecki1.mov;
+   file=media/przed_niemiecki1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3092,7 +3092,7 @@ file=szat_gim2.mov;
 (przed_niemiecki2)
 {
    type=mov;
-   file=przed_niemiecki2.mov;
+   file=media/przed_niemiecki2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3113,7 +3113,7 @@ file=szat_gim2.mov;
 (przed_niemiecki3)
 {
    type=mov;
-   file=przed_niemiecki3.mov;
+   file=media/przed_niemiecki3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3134,7 +3134,7 @@ file=szat_gim2.mov;
 (niemiecki1)
 {
    type=mov;
-   file=niemiecki1.mov;
+   file=media/niemiecki1.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -3152,7 +3152,7 @@ file=szat_gim2.mov;
 (niemiecki2)
 {
    type=mov;
-   file=niemiecki2.mov;
+   file=media/niemiecki2.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -3170,7 +3170,7 @@ file=szat_gim2.mov;
 (przed_pingpong)
 {
    type=mov;
-   file=przed_pingpong.mov;
+   file=media/przed_pingpong.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3191,7 +3191,7 @@ file=szat_gim2.mov;
 (przed_pingpong1)
 {
    type=mov;
-   file=przed_pingpong1.mov;
+   file=media/przed_pingpong1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3210,7 +3210,7 @@ file=szat_gim2.mov;
 (przed_pingpong2)
 {
    type=mov;
-   file=przed_pingpong2.mov;
+   file=media/przed_pingpong2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3229,7 +3229,7 @@ file=szat_gim2.mov;
 (pingpong)
 {
 type=mov;
-file=tenis.mov;
+file=media/tenis.mov;
 
 include=mapy;
    include=lokalizacja;
@@ -3246,7 +3246,7 @@ include=mapy;
 (klasa61)
 {
    type=mov;
-   file=klasa61.mov;
+   file=media/klasa61.mov;
    include=mapy;
    include=lokalizacja;
    include=punkty_lokalizacjamini;
@@ -3265,7 +3265,7 @@ include=mapy;
 (przed_fiz)
 {
    type=mov;
-   file=przed_fizycznąa.mov;
+   file=media/przed_fizycznąa.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3287,7 +3287,7 @@ include=mapy;
 (przed_fiz_1)
 {
    type=mov;
-   file=przed_fizycznąa_1.mov;
+   file=media/przed_fizycznąa_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3309,7 +3309,7 @@ include=mapy;
 (przed_fiz_2)
 {
    type=mov;
-   file=przed_fizycznąa_2.mov;
+   file=media/przed_fizycznąa_2.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3331,7 +3331,7 @@ include=mapy;
 (przed_fiz_3)
 {
    type=mov;
-   file=przed_fizycznąa_3.mov;
+   file=media/przed_fizycznąa_3.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3353,7 +3353,7 @@ include=mapy;
 (przed_fiz1)
 {
    type=mov;
-   file=przed_fizycznąa1.mov;
+   file=media/przed_fizycznąa1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3374,7 +3374,7 @@ include=mapy;
 (przed_fiz1_1)
 {
    type=mov;
-   file=przed_fizycznąa1_1.mov;
+   file=media/przed_fizycznąa1_1.mov;
 
    include=mapy;
    include=lokalizacja;
@@ -3395,7 +3395,7 @@ include=mapy;
 (korytarze)
 {
   type=mov;
-  file=korytarze.mov;
+  file=media/korytarze.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3416,7 +3416,7 @@ include=mapy;
 (korytarze1)
 {
   type=mov;
-  file=korytarze1.mov;
+  file=media/korytarze1.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3436,7 +3436,7 @@ include=mapy;
 (korytarze2)
 {
   type=mov;
-  file=korytarze2.mov;
+  file=media/korytarze2.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3457,7 +3457,7 @@ include=mapy;
 (korytarze_2a)
 {
   type=mov;
-  file=korytarze_2a.mov;
+  file=media/korytarze_2a.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3478,7 +3478,7 @@ include=mapy;
 (korytarze_2a1)
 {
   type=mov;
-  file=korytarze_2a1.mov;
+  file=media/korytarze_2a1.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3499,7 +3499,7 @@ include=mapy;
 (korytarze_2a2)
 {
   type=mov;
-  file=korytarze_2a2.mov;
+  file=media/korytarze_2a2.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3520,7 +3520,7 @@ include=mapy;
 (korytarze_2a3)
 {
   type=mov;
-  file=korytarze_2a3.mov;
+  file=media/korytarze_2a3.mov;
 
   include=mapy;
   include=lokalizacja;
@@ -3541,303 +3541,303 @@ include=mapy;
 (plan_budynku_mini0)
 {
   type=image;
-  file=plan_budynku_mini0.png;
+  file=media/plan_budynku_mini0.png;
 }
 (plan_budynku_mini1)
 {
   type=image;
-  file=plan_budynku_mini1.png;
+  file=media/plan_budynku_mini1.png;
 }
 (plan_budynku_mini2)
 {
   type=image;
-  file=plan_budynku_mini2.png;
+  file=media/plan_budynku_mini2.png;
 }
 (minip2)
 {
   type=image;
-  file=pietro2a_mini.png;
+  file=media/pietro2a_mini.png;
 }
 (minip1)
 {
   type=image;
-  file=pietro1a_mini.png;
+  file=media/pietro1a_mini.png;
 }
 (minip1n)
 {
   type=image;
-  file=pietro1a_minin.png;
+  file=media/pietro1a_minin.png;
 }
 (minipa)
 {
   type=image;
-  file=partera_mini.png;
+  file=media/partera_mini.png;
 }
 (bparter)
 {
   type=image;
-  file=partera.png;
+  file=media/partera.png;
 }
 (mini)
 {
   type=image;
-  file=mini.png;
+  file=media/mini.png;
 }
 (minin)
 {
   type=image;
-  file=minin.png;
+  file=media/minin.png;
 }
 (bpierwsze)
 {
   type=image;
-  file=pietro1a_mini.png;
+  file=media/pietro1a_mini.png;
 }
 (bdrugie)
 {
   type=image;
-  file=pietro2a_mini.png;
+  file=media/pietro2a_mini.png;
 }
 (mapa)
 {
   type=image;
-  file=mapa-icon.png;
+  file=media/mapa-icon.png;
 }
 (mapan)
 {
   type=image;
-  file=mapa-iconn.png;
+  file=media/mapa-iconn.png;
 }
 (lokal)
 {
   type=image;
-  file=lokalizacja.png;
+  file=media/lokalizacja.png;
 }
 (lokaln)
 {
   type=image;
-  file=lokalizacjan.png;
+  file=media/lokalizacjan.png;
 }
 (close)
 {
   type=image;
-  file=close.png;
+  file=media/close.png;
 }
 (closen)
 {
   type=image;
-  file=closen.png;
+  file=media/closen.png;
 }
 (logo)
 {
   type=IMAGE;
-  file=logo1.png;
+  file=media/logo1.png;
 	
 }
 (nodo2)
 {
   type=image;
-  file=nodo3.png;
+  file=media/nodo3.png;
 }
 (nodo1)
 {
   type=image;
-  file=nodo2.png;
+  file=media/nodo2.png;
 }
 (nodo)
 {
   type=image;
-  file=nodo1.png;
+  file=media/nodo1.png;
 }
 (mapa_budynku0)
 {
   type=image;
-  file=plan_budynku0.png;
+  file=media/plan_budynku0.png;
 }
 (mapa_budynku1)
 {
   type=image;
-  file=plan_budynku1.png;
+  file=media/plan_budynku1.png;
 }
 (mapa_budynku2)
 {
   type=image;
-  file=plan_budynku2.png;
+  file=media/plan_budynku2.png;
 }
 (punkt)
 {
   type=image;
-  file=punkt1.png;
+  file=media/punkt1.png;
 }
 (punktl)
 {
   type=image;
-  file=punktl.png;
+  file=media/punktl.png;
 }
 (punktln)
 {
   type=image; 
-  file=punktln.png;
+  file=media/punktln.png;
 }
 (punktn)
 {
   type=image;
-  file=punkt1n.png;
+  file=media/punkt1n.png;
 }
 (full)
 {
   type=image;
-  file=full.png;
+  file=media/full.png;
 }
 (hot)
 {
   type=image;
-  file=hot22.png;
+  file=media/hot22.png;
 }
 (hot1)
 {
   type=image;
-  file=hot33.png;
+  file=media/hot33.png;
 }
 (fulln)
 {
   type=image;
-  file=fulln.png;
+  file=media/fulln.png;
 {
 (anim)
 {
   type=image;
-  file=1.swf;
+  file=media/1.swf;
 }
 (load)
 {
   type=image;
-  file=loading.png;
+  file=media/loading.png;
 }
 (info)
 {
   type=image;
-  file=info.png;
+  file=media/info.png;
 }
 (info1)
 {
   type=image;
-  file=info1.png;
+  file=media/info1.png;
 }
 (popiersie)
 {
   type=image;
-  file=popiersie_info2.png;
+  file=media/popiersie_info2.png;
 }
 (mar_stro)
 {
   type=image;
-  file=mar_stro.png;
+  file=media/mar_stro.png;
 }
 (jul_fal)
 {
   type=image;
-  file=jul_fal.png;
+  file=media/jul_fal.png;
 }
 (harc_tabl)
 {
   type=image; 
-  file=harc_tabl.png;
+  file=media/harc_tabl.png;
 }
 (art_mal)
 {
   type=image; 
-  file=art_mal.png;
+  file=media/art_mal.png;
 }
 (pel_tabl)
 {
   type=image; 
-  file=pel_tabl.png;
+  file=media/pel_tabl.png;
 }
 (seb_pel)
 {
   type=image; 
-  file=seb_pel.png;
+  file=media/seb_pel.png;
 }
 (bro_mark)
 {
   type=image; 
-  file=bro_mark.png;
+  file=media/bro_mark.png;
 }
 (bg)
 {
   type=image;
-  file=bg.png;
+  file=media/bg.png;
 }
 (arrow1)
 {
 type=image;
-file=arrow2.png;
+file=media/arrow2.png;
 }
 (arrow2)
 {
 type=image;
-file=arrow3.png;
+file=media/arrow3.png;
 }
 (tut_logo)
 {
 type=image;
-file=tut_logo.png;
+file=media/tut_logo.png;
 }
 (tut_start)
 {
 type=image;
-file=tut_start.png;
+file=media/tut_start.png;
 }
 (tut)
 {
 type=image;
-file=tut.png;
+file=media/tut.png;
 }
 (tut1)
 {
 type=image;
-file=tut1.png;
+file=media/tut1.png;
 }
 (tut2)
 {
 type=image;
-file=tut2.png;
+file=media/tut2.png;
 }
 (tut3)
 {
 type=image;
-file=tut3.png;
+file=media/tut3.png;
 }
 (tut4)
 {
 type=image;
-file=tut4.png;
+file=media/tut4.png;
 }
 (elem_inter)
 {
 type=image;
-file=elementy_inter.png;
+file=media/elementy_inter.png;
 }
 (naste)
 {
 type=image;
-file=nastepny.png;
+file=media/nastepny.png;
 }
 (zamk_samo)
 {
 type=image;
-file=zamk_samo.png;
+file=media/zamk_samo.png;
 }
 (rozpocznij)
 {
 type=image;
-file=rozpocznij.png;
+file=media/rozpocznij.png;
 }
 (podpis)
 {
 type=image;
-file=podpis.png;
+file=media/podpis.png;
 }
 (mapy)
 {
