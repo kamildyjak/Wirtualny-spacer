@@ -1,0 +1,175 @@
+html, body {
+	margin:0;
+	padding:0;
+	background-image:url(bg3.png);
+	background-repeat:repeat;
+}
+#header-wrapper {
+background-image: url("http://slowak.edu.pl/themes/titan/images/header.png");
+background-repeat: repeat-x;
+height: 150px;
+}
+body{
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
+	background-color: #eee;
+	color: #444;
+	font-size: 75%;
+}
+a{
+	color: #27D;
+	text-decoration: none;
+}
+a:focus, a:hover, a:active {
+	text-decoration: underline;
+}
+p, li {
+	line-height: 1.8em;
+}
+h1, h2 {
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	margin: 0 0 10px 0;
+	letter-spacing:-1px;
+}
+h1 {
+	padding: 0;
+	font-size: 3em;
+	color: #333;
+}
+h2 {
+	padding-top: 10px;
+	font-size:2em;
+}
+pre {
+	font-size: 1.2em;
+	line-height: 1.2em;
+	overflow-x: auto;
+}
+div#bg{
+    background-image:url(bg3.png);
+	background-repeat:repeat;
+	}
+div#page {
+     position:relative;
+	width: 1080px;
+	background-color: #fff;
+	margin: 0 auto;
+	text-align: left;
+	border-color: #ddd;
+	border-style: none solid solid;
+	border-width: medium 0px 0px;
+	-moz-box-shadow: 0 0 25px #888;
+    -webkit-box-shadow: 0 0 25px#888;
+    box-shadow: 0 0 45px #888;
+}
+div#pasek{
+width:600%;
+height:6px;
+background-image:url(pasek.png);
+ margin-top: 40px;
+}
+div#toplogo p {
+position:relative;
+background: url('http://dyju711.w.interia.pl/sp_flag.png') no-repeat;
+width: 135px;
+height: 200px;
+display: block;
+background-position: 0px -7px;
+text-indent: -9999px;
+-webkit-transition: 0.10s ease-in;
+-moz-transition: 0.10s ease-in;
+}
+div#toplogo p:hover {
+background-position: 0px 0px;
+}
+div#container {
+    margin: 20px;
+	padding: 20 px;
+}
+div#ads {
+	clear: both;
+	padding: 12px 0 12px 66px;
+}
+div#footer {
+	clear: both;
+	
+	margin: 0 auto;
+	padding: 20px 0 40px;
+	text-align: center;
+	background-image:url(bg3.png);
+	background-repeat:repeat;
+}
+#flip
+{
+padding:0px;
+text-align:center;
+color: #999;
+
+}
+#panel
+{
+width:100%;
+height:autopx;
+padding:0px;
+padding-bottom:40px;
+display:none;
+background-image:url(bg5.png);
+color: #999;
+-moz-box-shadow:    inset 0 0 30px #000000;
+-webkit-box-shadow: inset 0 0 30px #000000;
+box-shadow:         inset 0 0 30px #000000;
+}
+#panel a img
+{
+height:115px;
+width:300px;
+margin:15px;
+-webkit-box-shadow:
+            0px 0px 0px 2px rgba(0,0,0,0.6),
+                0px 0px 0px 10px #fff,
+                0px 0px 0px 14px rgba(0,0,0,0.2),
+                6px 6px 8px 13px #555;
+   
+     -moz-box-shadow:
+            0px 0px 0px 2px rgba(0,0,0,0.6),
+                0px 0px 0px 10px #fff,
+                0px 0px 0px 14px rgba(0,0,0,0.2),
+                6px 6px 8px 13px #555;
+   
+          box-shadow:
+            0px 0px 0px 2px rgba(0,0,0,0.6),
+                0px 0px 0px 10px #fff,
+                0px 0px 0px 14px rgba(0,0,0,0.2),
+                6px 6px 8px 13px #555;
+}
+#galeria_napis
+{
+font-size:20px;
+padding-top:20px;
+
+}
+.albumy
+{
+font-size:13px;
+padding-top:0px;
+margin-bottom:10px;
+
+}
+.slide {
+	margin: 0;
+	padding: 0;
+	border-top: solid 0px #422410;
+	background: url(images/btn-slide.gif) no-repeat center top;
+}
+.btn-slide {
+	background: url(images/white-arrow.gif) no-repeat right -50px;
+	text-align: center;
+	width: 144px;
+	height: 31px;
+	padding: 10px 10px 0 0;
+	margin: 0 auto;
+	display: block;
+	font: bold 120%/100% Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
